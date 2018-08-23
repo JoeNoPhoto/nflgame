@@ -80,7 +80,7 @@ programmers](https://github.com/derek-adair/nflgame/wiki/Tutorial-for-non-progra
 is for you!
 
 Also, nflgame has decent (but not perfect)
-[API documentation](http://pdoc.burntsushi.net/nflgame).
+[API documentation](http://web.archive.org/web/20171205024904/http://pdoc.burntsushi.net:80/nflgame).
 If you're just looking around, make sure to look at the submodules too.
 
 If you need help, please come visit us at IRC/FreeNode on channel `#nflgame`.
